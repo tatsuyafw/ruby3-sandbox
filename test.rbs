@@ -1,0 +1,4 @@
+# Classes
+class Object
+  def foo : (Integer) -> (Integer)
+end
